@@ -1,3 +1,13 @@
+body {
+    background-image: url("http://download.4-designer.com/files/20130831/Color-Triangle-puzzle-vector-material-50836.jpg");
+    background-color: #cccccc;
+}
+
+img {
+  width: 30%;
+  height: auto;
+}
+
 #result {
   display: none;
 }
