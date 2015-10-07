@@ -1,15 +1,15 @@
 # triangles_js
-actorialize {Takes an integer and returns its factorial sum}, {September 6, 2015}
+{Takes 3 number inputs and tells you the triangle type}, {September 6, 2015}
 
 By {Chris Underwood & Andrew Brennewald}
 
 Description
 
-{Takes an integer and returns its factorial sum}
+Takes 3 number inputs and tells you the triangle type. The only types measured are scalene, isosoles, and scalene. The program will also tell you if the sides do not make a triangle.
 
 Setup
 
-Download files. Open the factoria.html document in the browser. The program should be ready to run.
+Download files. Open the triangle.html document in the browser. The program should be ready to run.
 
 Technologies Used
 
